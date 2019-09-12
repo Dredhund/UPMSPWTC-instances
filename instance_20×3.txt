@@ -1,0 +1,15 @@
+The number of jobs:
+20
+The number of machines:
+3
+The power of each machine at differnt speed levers:
+(where rows denote machines: 1 to 3 and columns denote speeds levels: v1 to v4)
+
+6,26,35,42
+11,16,23,44
+20,28,35,42
+The basic processing time of jobs processed on different machines:
+(where rows denote machines: 1 to 3 and columns denote jobs: 1 to 20)
+23,16,42,22,31,17,34,21,36,38,40,28,13,19,47,16,43,32,50,13
+28,14,48,10,41,43,45,13,26,20,42,27,46,17,21,16,15,45,33,32
+16,44,35,24,31,26,13,20,15,17,20,27,12,46,48,30,30,24,46,25
